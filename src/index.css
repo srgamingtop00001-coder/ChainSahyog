@@ -1,0 +1,4 @@
+body { margin: 0; background-color: #0f172a; color: #f8fafc; font-family: system-ui, sans-serif; }
+
+.number-badge, ol li::marker, ul li::marker { color: #38bdf8 !important; background-color: #1e293b !important; font-weight: bold; }
+
